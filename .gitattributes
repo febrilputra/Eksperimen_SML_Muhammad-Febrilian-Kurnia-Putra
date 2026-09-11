@@ -1,0 +1,4 @@
+* text=auto eol=lf
+preprocessing/telco_churn_preprocessing/** -text
+telco_churn_raw/** -text
+*.ipynb -text
